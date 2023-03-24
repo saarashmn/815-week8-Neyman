@@ -1,1 +1,3 @@
 # 815-week8-Neyman
+I couldn't get that 2d plot...
+but I managed to introduce that likelihood equation and make a Gaussian distribution function :3
